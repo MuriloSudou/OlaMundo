@@ -1,2 +1,4 @@
-# OlaMundo
-Repositório do curso de Git e Github
+# Olá, Mundo!
+
+Repósitorio criando no curso de Git e  Github curso em video!
+
